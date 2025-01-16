@@ -1,3 +1,4 @@
 alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
 nginx  crpi-360wfuegetv8myzj.cn-hangzhou.personal.cr.aliyuncs.com/docker-xdxghy/nginx:latest
 nginx:stable-perl crpi-360wfuegetv8myzj.cn-hangzhou.personal.cr.aliyuncs.com/docker-xdxghy/nginx:stable-perl
+nvidia/cuda:11.1-cudnn8-runtime-ubi8  crpi-360wfuegetv8myzj.cn-hangzhou.personal.cr.aliyuncs.com/docker-xdxghy/nvidia_cuda:11.1-cudnn8-runtime-ubi8
